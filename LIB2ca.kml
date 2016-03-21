@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>LIB2ca</name>
+	<visibility>1</visibility>
+	<Icon>
+		<href>http://SchroyerOCCC.github.io/floorplans/LIB2ca.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitude>405</altitude>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>35.38935330290536</north>
+		<south>35.38858197801011</south>
+		<east>-97.56865426589781</east>
+		<west>-97.56965662988689</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

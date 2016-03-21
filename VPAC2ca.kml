@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>VPAC2ca</name>
+	<visibility>1</visibility>
+	<Icon>
+		<href>http://SchroyerOCCC.github.io/floorplans/VPAC2ca.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitude>410</altitude>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>35.38972584064385</north>
+		<south>35.38849212174641</south>
+		<east>-97.57101677526691</east>
+		<west>-97.57258499551089</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>PLAca</name>
+	<visibility>1</visibility>
+	<Icon>
+		<href>http://SchroyerOCCC.github.io/floorplans/PLAca.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.38954171808521</north>
+		<south>35.38668497293131</south>
+		<east>-97.56680186531298</east>
+		<west>-97.56925631514436</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

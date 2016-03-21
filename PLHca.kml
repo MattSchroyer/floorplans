@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>PLHca</name>
+	<visibility>1</visibility>
+	<Icon>
+		<href>http://SchroyerOCCC.github.io/floorplans/PLHca.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.38653844653111</north>
+		<south>35.38538197501143</south>
+		<east>-97.56656495990676</east>
+		<west>-97.56804637047338</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
