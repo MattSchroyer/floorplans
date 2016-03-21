@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>MB2ca</name>
+	<visibility>1</visibility>
+	<Icon>
+		<href>http://SchroyerOCCC.github.io/floorplans/MB2ca.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitude>405</altitude>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>35.38801474708156</north>
+		<south>35.38640247015902</south>
+		<east>-97.56876418569031</east>
+		<west>-97.57061837513408</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
